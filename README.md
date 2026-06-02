@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01696f,100:0c4e54&height=200&section=header&text=Bindu%20Thotakura&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer%20%7C%20Backend%20%7C%20Cloud%20%7C%20Data&descAlignY=58&descSize=18&descColor=c8e6e8" alt="header" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-thotakura/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bindu-t-897187205/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:binduthotakura7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BinduThotakura7)
 
@@ -103,7 +103,7 @@ class BinduThotakura:
 > *"Clean code, scalable systems, and data that tells a story."*
 
 📬 Open to exciting backend/cloud engineering opportunities!  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bindu-thotakura/) or via email.
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/bindu-t-897187205/) or via email.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c4e54,100:01696f&height=100&section=footer" alt="footer"/>
 
