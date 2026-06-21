@@ -16,8 +16,6 @@
 class BinduThotakura:
     role        = "Software Development Engineer"
     experience  = ["Amazon", "United Health Group"]
-    location    = "Irving, Texas 🌆"
-    education   = "University of the Cumberlands"
 
     skills = {
         "backend"  : ["Python", "FastAPI", "Flask", "REST APIs"],
